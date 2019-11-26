@@ -1,0 +1,114 @@
+body {
+    padding: 0;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    background-image: url('https://images.unsplash.com/photo-1482440308425-276ad0f28b19?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
+}
+
+h5 {
+
+}
+
+.title-container {
+    text-align: center;
+    height: 300px;
+    padding-top: 100px;
+}
+
+.aboutMe-container {
+    background-color:rgb(192,192,192);opacity:0.9;
+    padding-left: 40px;
+    margin: 30px;
+}
+
+#myimage {
+    width: 200px;
+    height: 220px;
+    border-radius: 50%;
+}
+
+#center {
+    text-align: center;
+}
+
+.myWork-container {
+    background-color:rgb(192,192,192);opacity:0.9;
+    padding-left: 40px;
+    margin: 30px;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: black;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: transparent;
+  padding: 20px;
+}
+
+h3 {
+    padding-left: 50px;
+}
+
+h1 {
+    color: black;
+    -webkit-text-stroke: 1px white;
+  }
+
+  .navbar {
+      position: fixed;
+      z-index: 1;
+  }
+
+
+  .btn:hover {
+    background-color: grey;
+  }
+
+  #collegeLogo {
+      width: 40px;
+      height: 50px;
+  }
+
+  ul {
+      list-style-type: none;
+  }
+
+  h4 {
+      text-align: center;
+  }
+
+  #sendButton {
+    background-color: black;
+    color: white;
+  }
+
+  .contactForm {
+    text-align: center;
+  }
